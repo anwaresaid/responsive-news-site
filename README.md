@@ -1,2 +1,3 @@
-# responsive-news-site
-this is responsive news site, mainly shows implementation of styles that can adapt all different screen sizes without breaking
+# React + Vite
+
+The data in this project is all static, the goal of this project to show responsive design of a mock news site.
